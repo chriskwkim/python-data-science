@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+births.csv
+/data
+recipeitems-latest.json
